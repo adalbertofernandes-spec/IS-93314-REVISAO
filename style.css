@@ -1,8 +1,20 @@
-h1{
-    color: red;
+body{
+    background-color: bisque;
 }
-p{
-    color: blue;
+
+h1{
+    color: rgb(47, 0, 255);
+    padding: 2px;
+     text-align: center;
+}
+
+p{  
+    text-align: center;
+    color: rgb(255, 0, 0);
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
+}
+.button{
+    text-align: center;
+    cursor: pointer;
 }
